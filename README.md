@@ -17,6 +17,7 @@
 
 ## 📋 System Overview
 
+![ProjecTo F2](assets/images/F2.png)
 
 CASA0022_ProjecTo is an intelligent exhibition interactive system developed based on PyQt6, integrating multiple technologies including computer vision, robotic arm control, and human-computer interaction. The system adopts a multi-stage interactive design, achieving natural and intuitive human-computer interaction through precise gesture recognition and object detection, providing an immersive intelligent interactive experience for exhibition scenarios.
 
