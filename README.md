@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ProjecTo Logo](docs/assets/imgages/F1.png)
+![ProjecTo F1](assets/images/F1.png)
 
 **Professional Intelligent Interactive Projection Robotic Arm System Based on LeRobot Framework**
 
@@ -16,6 +16,7 @@
 </div>
 
 ## 📋 System Overview
+
 
 CASA0022_ProjecTo is an intelligent exhibition interactive system developed based on PyQt6, integrating multiple technologies including computer vision, robotic arm control, and human-computer interaction. The system adopts a multi-stage interactive design, achieving natural and intuitive human-computer interaction through precise gesture recognition and object detection, providing an immersive intelligent interactive experience for exhibition scenarios.
 
